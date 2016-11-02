@@ -72,7 +72,7 @@ public class Checkvist extends AppCompatActivity {
             }
         });
 
-        mWebView.loadUrl("http://m.checkvist.com");
+        mWebView.loadUrl("https://m.checkvist.com");
     }
 
     protected void setProgressAmount(int amount) {
